@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name         BiliZen - 沉浸式学习模式
 // @namespace    biliZen
+// @license MIT
 // @version      1.0.0
 // @description  隐藏B站视频页右侧推荐视频列表，保留UP主信息和视频合集；支持右下角开关、Alt+F 快捷键，并记忆偏好
 // @icon         https://www.bilibili.com/favicon.ico
@@ -11,6 +12,8 @@
 // @grant        GM_addStyle
 // @grant        GM_getValue
 // @grant        GM_setValue
+// @updateURL    https://raw.githubusercontent.com/Ttungx/BiliZen/main/bilibili-focus-mode.user.js
+// @downloadURL  https://raw.githubusercontent.com/Ttungx/BiliZen/main/bilibili-focus-mode.user.js
 // @run-at       document-start
 // ==/UserScript==
 
